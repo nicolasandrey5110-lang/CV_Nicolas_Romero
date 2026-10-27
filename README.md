@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [nicolasandrey5110@gmail.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
@@ -21,8 +21,8 @@
 - Título obtenido.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
+- **Manejo de TICS**
+- ****
 - **Habilidad 3**
 
 
